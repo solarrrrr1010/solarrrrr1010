@@ -6,7 +6,7 @@
 
 <div style="background-color: #f2f2f2; padding: 10px; border-radius: 5px;">
   <pre><code>
-### Hi there, I'm Bongcheol Kim. 👋
+Hi there, I'm Bongcheol Kim. 👋
 
 I'm a passionate backend developer with a love for creating robust and scalable web applications. <br>
 I specialize in designing and building server-side solutions that power the core functionality of web services.<br>
