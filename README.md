@@ -8,8 +8,10 @@
   <pre><code>
 Hi there, I'm Bongcheol Kim. 👋
 
-I'm a passionate backend developer with a love for creating robust and scalable web applications. <br>
-I specialize in designing and building server-side solutions that power the core functionality of web services.<br>
+I'm a passionate backend developer <br>
+with a love for creating robust and scalable web applications. <br>
+I specialize in designing and building <br>
+server-side solutions that power the core functionality of web services. <br>
 <br>
 💼 Currently working on exciting projects<br>
 🌱 Learning and exploring new technologies<br>
